@@ -10,7 +10,7 @@ Pages are adaptive for tablets and smartphones. Adaptive layouts made by media q
 - HTML5 (semantic);
 - LESS (BEM);
 - Gulp;
-- JavaScript (mostrly ES5)
+- JavaScript (mostly ES5)
 
 ### How to watch:
 
